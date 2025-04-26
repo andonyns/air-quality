@@ -5,6 +5,7 @@ description = "lab 1 of the data science course at Universidad de Costa Rica, 20
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "cartopy>=0.24.1",
     "dotenv>=0.9.9",
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.1",
